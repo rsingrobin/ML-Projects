@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: mlproject
+Version: 0.0.1
+Author: Singaravel
+Author-email: rsingrobin.learning@gmail.com
+Requires-Dist: ipykernel
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: scikit-learn
